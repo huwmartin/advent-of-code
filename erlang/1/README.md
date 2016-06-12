@@ -30,3 +30,5 @@ For example:
 `)` causes him to enter the basement at character position `1`.
 `()())` causes him to enter the basement at character position `5`.
 What is the position of the character that causes Santa to first enter the basement?
+
+For historic iterations [see here](https://gist.github.com/huwmartin/81f3a0316cf4bdefd8c0c78ca55dbd2e).
